@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "287570579204",
+    "firebase_url": "https://dimas-modul6.firebaseio.com",
+    "project_id": "dimas-modul6",
+    "storage_bucket": "dimas-modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287570579204:android:3d2c6cf9db3725bd",
+        "android_client_info": {
+          "package_name": "com.example.dimaskomara.dimaskomararamadhani_1202154210_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287570579204-b0k1uv5ksgjd6qf755na71a7tju9jc86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8widJ3taB3snwKi3QUkPAE-kPSUsxpYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
